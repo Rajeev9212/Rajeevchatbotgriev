@@ -87,7 +87,7 @@ Grievbot/
    ```
 
 5. Open your browser and go to:
-      [http://127.0.0.1:5000/](https://p4mw653s-5000.inc1.devtunnels.ms/)
+     https://p4mw653s-5000.inc1.devtunnels.ms/
 
 ---
 
